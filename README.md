@@ -1,8 +1,10 @@
 # Hello, World! 🖤
 
-A collection of simple "Hello, World!" programs written in the programming languages I've studied and am currently learning.
+🇺🇸 [Read in English](README-en.md)
 
-## Languages
+Uma coleção de programas simples "Hello, World!" escritos nas linguagens de programação que já estudei e que estou aprendendo atualmente.
+
+## Linguagens
 
 - Portugol
 - JavaScript
@@ -10,4 +12,4 @@ A collection of simple "Hello, World!" programs written in the programming langu
 - C
 - Python
 
-This repository will grow as I explore new programming languages.
+Este repositório vai crescer conforme eu explorar novas linguagens de programação.
